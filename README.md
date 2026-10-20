@@ -1,10 +1,16 @@
 # Nain Baloch — GitHub Repository Library
 
-**Last updated:** 2026-10-14  
+**Last updated:** 2026-10-21 (Master Index update; original 14-Oct table retained below)  
 **Owner:** nainbaloch  
 **Purpose:** Repos ka verified, categorized index. Links store hue hain; full source code, fork ya installer copy **nahin** ki gayi.
 
 > **GitHub basics:** Star = save/bookmark (repo apni original location par rehti hai). Fork = apne account par GitHub copy. Clone = local PC par code download. Is repository ka yeh README ek **saved-links catalog** hai, GitHub Stars ka substitute nahin.
+
+## Master Index — all known categories (updated 21-Oct-2026)
+
+**[Open the consolidated GitHub Master Index — 74 source URL entries + 6 unresolved references](MASTER_GITHUB_INDEX.md)**. This preserves the 14-Oct catalog below and adds Video Editing, Digital Humans, BGL Automation, App Builders, Security, Financial/Marketing research, REA-Prompts and latest discussed repositories.
+
+**Private source backup status:** one verified full snapshot of the 1-file [REA-Prompts](https://github.com/JoasASantos/REA-Prompts) repository is stored in a separate branch of a private repository; the other items are cataloged, **not** cloned or mirrored. Full working GitHub backup is not claimed. No APK/EXE build result is implied by the index.
 
 ## A. AI Worker / Video / Mobile Automation (2)
 
@@ -58,6 +64,6 @@ Yeh technical security research/exploit repositories hain. **Inhein run, deploy,
 6. Existing working AI Worker, BGL, Android projects ko apni taraf se modify na karo.
 7. Unknown executables, credential requests aur exploit demos ko auto-run na karo.
 
-**Total verified unique repositories in this catalog:** 17 (10 robotics + 2 AI/phone + 5 security references).
+**Original 14-Oct verified references below:** 17 (10 robotics + 2 AI/phone + 5 security references). For the newer consolidated list and per-entry statuses, see [MASTER_GITHUB_INDEX.md](MASTER_GITHUB_INDEX.md).
 
 **Verification scope:** GitHub repository identity/existence confirmed on 2026-10-14. This does not assert that each repository was security-audited, built, benchmarked, or installed.
