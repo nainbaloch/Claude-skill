@@ -132,12 +132,12 @@ Google Flow/Veo, Dreamina/Seedance, Kling, Runway, Higgsfield, OpenArt, Hailuo, 
 
 ## GitHub source backup
 
-**Destination:** separate branch `source-backups-2026-10-21` in **PRIVATE** `nainbaloch/Ponytell-Lazy-ai`, isolated from the active BGL Bill-T branch.
+**Private storage:** A separate protected backup branch is maintained in the user's existing private GitHub account; the private destination repository name and branch are intentionally not published in this public index.
 
-- **Verified complete snapshot (one-source-file repository):** [JoasASantos/REA-Prompts/README.md](https://github.com/nainbaloch/Ponytell-Lazy-ai/blob/source-backups-2026-10-21/source-snapshots/JoasASantos__REA-Prompts/README.md). Source blob SHA and private backup blob SHA: `188792a36f65debcb71aacd9a44dc0b26778a705`.
-- Other sources: **NOT BACKED UP**. Do not mistake index links, a source-backup script, or a Drive document for actual code bytes.
-- `andreszymanski15/ai-jailbreaks`: GitHub 404; no source was downloaded.
-- Copying sources needs license review, dependency/asset policy and file-size checks. Large ML models/repo histories need separate authorized storage; no uncontrolled bulk download or automatic execution.
+- **Verified complete source snapshot (one-file repository):** `JoasASantos/REA-Prompts` contains one `README.md` file, and its source blob SHA matches the private archive blob: `188792a36f65debcb71aacd9a44dc0b26778a705`.
+- All other source repositories: **NOT BACKED UP** as of this update. Index links are not snapshots or forks.
+- `andreszymanski15/ai-jailbreaks`: direct GitHub requests returned 404, so no source was downloaded.
+- Any future archives require license, size, malware/secret and execution-safety checks; large AI model weights and full Git histories are separate tasks.
 
 ## Project-based filing
 
