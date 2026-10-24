@@ -144,3 +144,33 @@ Google Flow/Veo, Dreamina/Seedance, Kling, Runway, Higgsfield, OpenArt, Hailuo, 
 BGL Freight/Fuel and MLCF Excel: Excel MCP, n8n, Paperless MCP, Traceway. BGL AI Worker / Digital Studio / Social: video and editing sections. TRUE NAIN: playback / frame test tooling, not generative video engines as substitutes. AI Automation Studio / Ollama: agent and audit tooling. Marketing and Finance research do not belong in freight calculation logic. Public repo intentionally contains **no** user Drive secrets or private BGL documents.
 
 Archive in Google Drive (private account): central folder `AI Tools & GitHub Archive — 2026-10-17`. Original README preserved for chronology.
+
+
+## User-owned BGL / TRUE NAIN project repositories — 2026-10-24
+
+The following 19 existing private project repositories were confirmed by the user. Their `README.md` or `PROJECT_CONTEXT.md` now contains relevant requirements previously supplied in ChatGPT. This is project documentation only; it does **not** mean the full Drive source files were copied into GitHub or that apps were built/tested.
+
+| Project repository | Project notes |
+|---|---|
+| [BGL-Freight-Fuel-EXE](https://github.com/nainbaloch/BGL-Freight-Fuel-EXE) | README updated |
+| [BGL-Enterprise-Windows](https://github.com/nainbaloch/BGL-Enterprise-Windows) | README updated |
+| [MLCF-Master-Data](https://github.com/nainbaloch/MLCF-Master-Data) | README updated |
+| [Maple-Black-Cement-POD](https://github.com/nainbaloch/Maple-Black-Cement-POD) | README updated |
+| [BGL-Excel-PnL](https://github.com/nainbaloch/BGL-Excel-PnL) | PROJECT_CONTEXT.md added |
+| [BGL-Bilty-GatePass-OCR](https://github.com/nainbaloch/BGL-Bilty-GatePass-OCR) | README added |
+| [BGL-PSO-Diesel-Monitor](https://github.com/nainbaloch/BGL-PSO-Diesel-Monitor) | PROJECT_CONTEXT.md added |
+| [BGL-Vehicle-Summary](https://github.com/nainbaloch/BGL-Vehicle-Summary) | PROJECT_CONTEXT.md added |
+| [BGL-Management-Reports](https://github.com/nainbaloch/BGL-Management-Reports) | PROJECT_CONTEXT.md added |
+| [AI-Automation-Studio](https://github.com/nainbaloch/AI-Automation-Studio) | PROJECT_CONTEXT.md added |
+| [BGL-AI-Video-Worker](https://github.com/nainbaloch/BGL-AI-Video-Worker) | PROJECT_CONTEXT.md added |
+| [BGL-Digital-Studio](https://github.com/nainbaloch/BGL-Digital-Studio) | PROJECT_CONTEXT.md added |
+| [TRUE-NAIN-Android](https://github.com/nainbaloch/TRUE-NAIN-Android) | PROJECT_CONTEXT.md added |
+| [AI-Digital-Humans](https://github.com/nainbaloch/AI-Digital-Humans) | PROJECT_CONTEXT.md added |
+| [Social-Media-Automation](https://github.com/nainbaloch/Social-Media-Automation) | PROJECT_CONTEXT.md added |
+| [Local-LLM-AI-Agents](https://github.com/nainbaloch/Local-LLM-AI-Agents) | PROJECT_CONTEXT.md added |
+| [Google-Workspace-Automation](https://github.com/nainbaloch/Google-Workspace-Automation) | PROJECT_CONTEXT.md added |
+| [AI-App-Builders-Skills](https://github.com/nainbaloch/AI-App-Builders-Skills) | PROJECT_CONTEXT.md added |
+| [Windows-Android-Media-Tools](https://github.com/nainbaloch/Windows-Android-Media-Tools) | PROJECT_CONTEXT.md added |
+
+**Intentionally left untouched:** [Financial-Trading-Research](https://github.com/nainbaloch/Financial-Trading-Research), per user instruction to leave the additional repository alone. Other utility repositories such as `Claude-skill`, `Ponytell-Lazy-ai`, and `ponytail` were not altered by this project-note batch except the already requested Master Index update in `Claude-skill`.
+
